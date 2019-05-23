@@ -1,0 +1,14 @@
+C:\Users\zaefr\source\repos\SDO_API\SDO_API\bin\Release\netcoreapp2.2\SDO_API.deps.json
+C:\Users\zaefr\source\repos\SDO_API\SDO_API\bin\Release\netcoreapp2.2\SDO_API.runtimeconfig.json
+C:\Users\zaefr\source\repos\SDO_API\SDO_API\bin\Release\netcoreapp2.2\SDO_API.runtimeconfig.dev.json
+C:\Users\zaefr\source\repos\SDO_API\SDO_API\bin\Release\netcoreapp2.2\SDO_API.dll
+C:\Users\zaefr\source\repos\SDO_API\SDO_API\bin\Release\netcoreapp2.2\SDO_API.pdb
+C:\Users\zaefr\source\repos\SDO_API\SDO_API\obj\Release\netcoreapp2.2\SDO_API.csprojAssemblyReference.cache
+C:\Users\zaefr\source\repos\SDO_API\SDO_API\obj\Release\netcoreapp2.2\SDO_API.csproj.CoreCompileInputs.cache
+C:\Users\zaefr\source\repos\SDO_API\SDO_API\obj\Release\netcoreapp2.2\SDO_API.RazorAssemblyInfo.cache
+C:\Users\zaefr\source\repos\SDO_API\SDO_API\obj\Release\netcoreapp2.2\SDO_API.RazorAssemblyInfo.cs
+C:\Users\zaefr\source\repos\SDO_API\SDO_API\obj\Release\netcoreapp2.2\SDO_API.AssemblyInfoInputs.cache
+C:\Users\zaefr\source\repos\SDO_API\SDO_API\obj\Release\netcoreapp2.2\SDO_API.AssemblyInfo.cs
+C:\Users\zaefr\source\repos\SDO_API\SDO_API\obj\Release\netcoreapp2.2\SDO_API.RazorTargetAssemblyInfo.cache
+C:\Users\zaefr\source\repos\SDO_API\SDO_API\obj\Release\netcoreapp2.2\SDO_API.dll
+C:\Users\zaefr\source\repos\SDO_API\SDO_API\obj\Release\netcoreapp2.2\SDO_API.pdb
